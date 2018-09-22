@@ -1,0 +1,27 @@
+_repo: The-New-Abelard-A-Romance-Volume-1-of-3_54855
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Buchanan, Robert Williams
+    birthdate: 1841
+    deathdate: 1901
+    gutenberg_agent_id: '44813'
+    url: http://www.gutenberg.org/2009/agents/44813
+description: ''
+gutenberg_issued: '2017-06-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54855'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Religious fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Clergy -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'The New Abelard: A Romance, Volume 1 (of 3)'
+url: http://www.gutenberg.org/ebooks/54855
